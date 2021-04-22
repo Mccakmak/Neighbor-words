@@ -1,5 +1,7 @@
 # Word-neighbors
-Finds similar words and similar job entities in a given document.  
+Finds similar words and similar job entities in a given document.
+
+Note: Turkish language dataset is used in this example you can use any language dataset.
 
 For example for the word similarity,  
 (0.0 Most similar)
